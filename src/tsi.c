@@ -1,14 +1,4 @@
-/******************************************************************************
- * This file is a part of the Sysytem Microprocessor Tutorial (C).            *
- ******************************************************************************/
 
-/**
- * @file tsi.c
- * @author Koryciak
- * @date Oct 2019
- * @brief File containing definitions.
- * @ver 0.1
- */
 
 #include "tsi.h"
 
